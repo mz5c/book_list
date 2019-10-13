@@ -11,7 +11,5 @@
 | 5 | 《图解HTTP》 | 上野宣 | 2019-08-25 | 2019-09-07 | finished | [go](./thinking/book5) |
 | 6 | 《原则》 | Ray Dalio | 2019-09-16 | - | reading | - |
 | 7 | 《时间简史》 | Stephen William Hawking | 2019-09-16 | - | reading | [go](./thinking/book7) |
-| 8 | 《国富论》 | Adam Smith | 2019-09-16 | - | pending| - |
-
 | 8 | 《国富论》 | Adam Smith | 2019-09-16 | - | pending | - |
 | 9 | 《天才在左 疯子在右》 | 高铭 | 2019-10-13 | - | reading | - |
